@@ -2,7 +2,16 @@
 var read = require('readline-sync');
 
 // var read = require('readline-sync');
-console.log("How well do you Begaluru? ")
+// console.log("How well do you know Begaluru? ")
+
+console.log("Lets play the quiz!! How well do you know Begaluru?? ")
+console.log("------------")
+
+var username=read.question("Please enter your name buddy? ")
+console.log("------------")
+console.log("Okay! "+username+" Here comes the questions!")
+
+console.log("------------")
 
 // var question1=
 // {
